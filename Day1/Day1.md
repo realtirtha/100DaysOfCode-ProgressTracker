@@ -6,5 +6,5 @@
     * why there is necessity of .gitignore file
 
 ### note:
-![image1](images\1a.jpg)
-![image2](images\1b.jpg)
+![image1](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/1a.jpg)
+![image2](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/1a.jpg)
