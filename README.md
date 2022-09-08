@@ -13,3 +13,9 @@ I'm starting with Git and GitHub.
 Learned & practice git commands.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day2/Day2.md)
+
+## Day 3
+
+Learned about Branches and to redo commits.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day3/Day3.md)
