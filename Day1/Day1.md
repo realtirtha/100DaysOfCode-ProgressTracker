@@ -7,4 +7,4 @@
 
 ### note:
 ![image1](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/1a.jpg)
-![image2](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/1a.jpg)
+![image2](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/1b.jpg)
