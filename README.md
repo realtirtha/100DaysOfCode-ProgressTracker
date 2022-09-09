@@ -19,3 +19,9 @@ Learned & practice git commands.
 Learned about Branches and to redo commits.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day3/Day3.md)
+
+## Day 4
+
+I reviewed all I have learned before and made some changes on GitHub Profile.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day4/Day4.md)
