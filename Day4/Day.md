@@ -1,4 +1,4 @@
-##Day 4
+## Day 4
 
 * Today:
     * I reviewed things i have learned before.
@@ -7,6 +7,12 @@
     * I also managed my GitHub Profile. Click [here](https://github.com/realtirtha) to visit
     * I also made github.io profile but i did only copy paste from bootstrap but still a little worth.
     * click [here](https://realtirtha.github.io) to visit.
+
+## Till Day 4
+|From|To|Learned Topics|
+|----|----|----|
+|1|4|Git & GitHub|
+
 
 ### here are notes:
 ![Images](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/images/4a.jpg)
