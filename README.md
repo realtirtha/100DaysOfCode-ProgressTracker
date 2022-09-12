@@ -25,3 +25,9 @@ Learned about Branches and to redo commits.
 I reviewed all I have learned before and made some changes on GitHub Profile.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day4/Day4.md)
+
+## Day 5
+
+I'm starting to learn C# from Today. Begin with control statement and some data types.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day5/Day5.md)
