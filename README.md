@@ -31,3 +31,9 @@ I reviewed all I have learned before and made some changes on GitHub Profile.
 I'm starting to learn C# from Today. Begin with control statement and some data types.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day5/Day5.md)
+
+## Day 6
+
+I did Learned about for loop, do while loop and while loop.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day6/Day6.md)
