@@ -37,3 +37,9 @@ I'm starting to learn C# from Today. Begin with control statement and some data 
 I did Learned about for loop, do while loop and while loop.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day6/Day6.md)
+
+## Day 7
+
+Learned about continue & break and string concatentation.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day7/Day7.md)
