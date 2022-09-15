@@ -43,3 +43,9 @@ I did Learned about for loop, do while loop and while loop.
 Learned about continue & break and string concatentation.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day7/Day7.md)
+
+## Day 8
+
+Learned about the properties of class and also of Constructor while learning to overload constructor.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day8/Day8.md)
