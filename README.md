@@ -49,3 +49,9 @@ Learned about continue & break and string concatentation.
 Learned about the properties of class and also of Constructor while learning to overload constructor.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day8/Day8.md)
+
+## Day 9
+
+Learned about get set property and implemented exception handling but very confusing so i prolly need study it again.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day9/Day9.md)
