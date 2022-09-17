@@ -55,3 +55,9 @@ Learned about the properties of class and also of Constructor while learning to 
 Learned about get set property and implemented exception handling but very confusing so i prolly need study it again.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day9/Day9.md)
+
+## Day 10
+
+Practiced get set property.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day10/Day10.md)
