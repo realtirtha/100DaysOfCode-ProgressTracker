@@ -1,6 +1,7 @@
 # 100DaysOfCode-ProgressTracker
 
 I will be updating the progress that I will made day-wise.
+* click [here](https://github.com/realtirtha/100DaysOfCode) to visit my repository where I've been uploading my all practiced source code.
 
 ## Day 1
 
