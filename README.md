@@ -62,3 +62,9 @@ Learned about get set property and implemented exception handling but very confu
 Practiced get set property.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day10/Day10.md)
+
+## Day 11
+
+Created a class to validiate email using regular expression.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day11/Day11.md)
