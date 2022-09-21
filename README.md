@@ -73,4 +73,4 @@ Created a class to validiate email using regular expression.
 
 Operator Overloading started.
 
-- More Info: [here]((https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day12/Day12.md))
+- More Info: [here] (https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day12/Day12.md))
