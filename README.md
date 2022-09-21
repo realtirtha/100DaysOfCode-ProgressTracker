@@ -68,3 +68,9 @@ Practiced get set property.
 Created a class to validiate email using regular expression.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day11/Day11.md)
+
+## Day 12
+
+Operator Overloading started.
+
+- More Info: [here]((https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day12/Day12.md))
