@@ -81,3 +81,8 @@ Operator Overloading continuing.
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day13/Day13.md)
 
+## Day 1d
+
+Operator Overloading continuing but only did for 10 minutes.
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day14/Day14.md)
