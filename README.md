@@ -95,3 +95,8 @@ fucntion call using 'ref' and 'out'
 learned to return multiple values
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day16/Day16.md)
+
+## Day 17
+Static and Non static basic difference
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day17/Day17.md)
