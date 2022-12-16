@@ -105,3 +105,8 @@ Static and Non static basic difference
 Singleton pattern
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day18/Day18.md)
+
+## Day 19
+Git very basic revised & Inheritance basic concept
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day19/Day19.md)
