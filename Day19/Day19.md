@@ -15,13 +15,13 @@
  * we can derive the property of parent classes
 
  while creating object:
- '''
+ ```
  plant p = new plant();
- '''
+ ```
  is similar to
- '''
+ ```
  plant p = new();
- '''
+ ```
  
 
 ### here are notes:
