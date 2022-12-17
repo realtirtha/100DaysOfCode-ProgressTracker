@@ -110,3 +110,8 @@ Singleton pattern
 Git very basic revised & Inheritance basic concept
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day19/Day19.md)
+
+## Day 20
+Inheritance contd.
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day20/Day20.md)
