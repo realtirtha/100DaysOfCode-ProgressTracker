@@ -115,3 +115,8 @@ Git very basic revised & Inheritance basic concept
 Inheritance contd.
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day20/Day20.md)
+
+## Day 21
+Polymorphism started.
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day21/Day21.md)
