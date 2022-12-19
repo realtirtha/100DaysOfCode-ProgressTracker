@@ -120,3 +120,8 @@ Inheritance contd.
 Polymorphism started.
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day21/Day21.md)
+
+## Day 22
+Polymorphism continued along with virtual and override.
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day22/Day22.md)
