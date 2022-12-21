@@ -130,3 +130,8 @@ Polymorphism continued along with virtual and override.
 Interface and code written in Factory pattern BUT i'm confused
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day23/Day23.md)
+
+## Day 24
+Interface along with Factory pattern
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day24/Day24.md)
