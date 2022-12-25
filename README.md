@@ -135,3 +135,8 @@ Interface and code written in Factory pattern BUT i'm confused
 Interface along with Factory pattern
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day24/Day24.md)
+
+## Day 25
+Started Abstract class
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day25/Day25.md)
