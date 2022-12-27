@@ -140,3 +140,8 @@ Interface along with Factory pattern
 Started Abstract class
 
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day25/Day25.md)
+
+## Day 26
+continuing Abstract class
+
+-More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day26/Day26.md)
