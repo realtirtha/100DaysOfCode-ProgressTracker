@@ -15,6 +15,7 @@
  * we can derive the property of parent classes
 
  while creating object:
+
  ```
  plant p = new plant();
  ```
