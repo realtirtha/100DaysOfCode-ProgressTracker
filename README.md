@@ -147,4 +147,5 @@ continuing Abstract class
 -More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day26/Day26.md)
 
 **Next Day** : "I have a feeling that my pc is hacked so I couldn't do anything today"
+
 **Taking rest for a day on New Year Eve**
