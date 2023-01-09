@@ -154,3 +154,8 @@ continuing Abstract class
 continuing abstract class
 
 - More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day27/Day27.md)
+
+## Day 28
+yo abstract class but still i'm unknown
+
+- More Info: [here](https://github.com/realtirtha/100DaysOfCode-ProgressTracker/blob/main/Day28/Day28.md)
